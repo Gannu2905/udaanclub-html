@@ -1,0 +1,75 @@
+.logo>h1{
+text-align: center;
+font-size: 5rem;
+margin: 0px;
+padding: 0px;
+font-family: 'Playwrite Cuba', sans-serif;
+}
+.logo>img{
+    margin-left: 32%;
+
+}
+.logo{
+    background-color: #96C9F4;
+}
+.cointainer{
+    display: flex;
+    gap: 15%;
+    background-color: #FAFFAF ;
+    
+    justify-content: space-between;
+    font-size:x-large;
+    align-items: center;
+}
+.homebutton{
+    font-size: 20px;
+    background-color: #FAFFAF;
+    color: purple;
+}
+.about-us{
+    font-size: 20px;
+    background-color: #FAFFAF;
+    color: purple;
+}
+.detail{
+    font-size: 20px;
+    background-color: #FAFFAF;
+    color: purple;
+}
+.contact{
+    font-size: 20px;
+    background-color: #FAFFAF;
+    color: purple; 
+}
+.form{
+    font-size: 20px;
+    background-color: #FAFFAF;
+    color: purple;  
+}
+.drone{
+    height: 250px;
+    width: 350px;
+    border: 2px solid gold;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    display: inline-block;
+}
+.aeroplane{
+    height: 250px;
+    width: 350px;
+    position: relative;
+    top: -205px;
+    left: 750px;
+    display: inline-block;
+    border: 2px solid gold;
+}
+.hovercraft{
+    height: 250px;
+    width: 350px;
+    position: relative;
+    top: -460px;
+    left: 1500px;
+    display: inline-block;
+    border: 2px solid gold;
+}
